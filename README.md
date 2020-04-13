@@ -1,4 +1,4 @@
-# - 人工智能导论
+# 人工智能导论
 This repository contains all homework, labs, and projects assigned by my Introduction to Artificial Intelligence Course
 
 
