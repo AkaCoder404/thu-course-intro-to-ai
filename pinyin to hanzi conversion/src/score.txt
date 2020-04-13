@@ -1,0 +1,10 @@
+Reading from ../data/input2.txtand compare to ../data/correct_output_2.txt
++---------------------------------+------------------+------------------+-------+
+| Pinyin                          | Correct          | Mine             | Score |
++---------------------------------+------------------+------------------+-------+
+| qing hua da xue ji suan ji xi   | 清华大学计算机系 | 清华大学计算机系 | 8/8   |
+| wo shang xue qu le              | 我上学去了       | 我上学去了       | 5/5   |
+| jin tian hui jia bi jiao wan    | 今天回家比较晚   | 今天回家比较完   | 6/7   |
+| liang hui zai bei jing zhao kai | 两会在北京召开   | 两会在北京召开   | 7/7   |
++---------------------------------+------------------+------------------+-------+
+Total Percentage Correct 0.9629629629629629
