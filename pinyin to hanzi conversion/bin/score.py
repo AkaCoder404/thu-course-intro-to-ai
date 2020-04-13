@@ -26,8 +26,8 @@ def main():
         sentence.append(str(py))
         sentence.append(str(correct))
         sentence.append(str(check))
-        total_score = len(correct)
-        total_checks += total_score
+        total_char_py = len(correct)
+        total_checks += total_char_py
         num_correct = 0
         for a, b in zip(correct, check):
             # print(a + " " + b)
