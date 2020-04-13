@@ -42,7 +42,7 @@ The standard inputs and accuracy are as follows.
 |1|qing hua da xue ji suan ji xi|清华大学计算机系|清华大学计算机|8/8|
 |2|wo shang xue qu le|我上学去了|我上学去了|5/5|
 |3|jin tian hui jia bi jiao wan|今天回家比较完|今天回家比较晚|6/7|
-|4|liang hui zai bei jing zhao kai|两会在北京召开|7/7|
+|4|liang hui zai bei jing zhao kai|两会在北京召开|两会在北京召开|7/7|
 
 Thus, this gives us a accuracy of about 96%.
 
