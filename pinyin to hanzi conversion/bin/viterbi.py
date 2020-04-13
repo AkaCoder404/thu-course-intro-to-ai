@@ -98,8 +98,8 @@ def Veterbi(_testcases, _outputs):
         
 def main():
     readData()
-    inputs = open('../data/input2.txt', 'r', encoding="GBK")
-    outputs = open('../data/output2.txt', 'w', encoding="GBK")
+    inputs = open('../data/input1.txt', 'r', encoding="GBK")
+    outputs = open('../data/output1.txt', 'w', encoding="GBK")
     testcases = []
     readInputs(inputs, testcases)
     inputs.close()
