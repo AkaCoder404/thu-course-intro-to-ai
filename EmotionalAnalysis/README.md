@@ -46,5 +46,3 @@ From the training process and results, we can see that:
 - The CNN model runs much more quickly than the LSTM model.
 - Both models can achieve a high accuracy for the training dataset after some epochs, but CNN is much more quickly.
 - Both models accuracy for the validation dataset are fairly low, meaning that the model is not that good.F1 score is also fairly low.
-
-
